@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\user\source\repos\project4\project4\main.cpp(191): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\user\source\repos\project4\project4\main.cpp(191): warning C4838: conversion from 'float' to 'char' requires a narrowing conversion
+c:\users\user\source\repos\project4\project4\main.cpp(191): warning C4244: 'initializing': conversion from 'float' to 'char', possible loss of data
+  Project4.vcxproj -> C:\Users\USER\source\repos\Project4\x64\Debug\Project4.exe
